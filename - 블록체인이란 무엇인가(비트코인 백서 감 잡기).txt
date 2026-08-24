@@ -1,0 +1,10 @@
+- 블록체인이란 무엇인가(비트코인 백서 감 잡기)
+    - https://bitcoin.org/files/bitcoin-paper/bitcoin_ko.pdf
+- 이더리움이란 무엇인가
+    - https://ethereum.github.io/yellowpaper/paper.pdf
+    - [https://medium.com/tomak/이더리움은-어떻게-동작하는가-1-ee7fa940541c](https://medium.com/tomak/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80-1-ee7fa940541c)
+- Solidity 기본 문법 학습하기
+    - https://docs.soliditylang.org/en/v0.8.35/
+    - https://solidity-kr.readthedocs.io/ko/latest/solidity-in-depth.html
+    - https://github.com/ethereumbook/ethereumbook
+    - https://whs3-doge5k.gitbook.io/smartcontract-security-docs

@@ -1,0 +1,42 @@
+[
+  {
+    "access_key_id": "AKIAEXAMPLE001",
+    "user_name": "svc-data-ingest",
+    "create_date": "2024-01-10T08:12:00Z",
+    "last_used_date": "2024-12-01T12:00:00Z",
+    "attached_policies": ["AmazonS3ReadOnlyAccess"],
+    "is_active": true
+  },
+  {
+    "access_key_id": "AKIAEXAMPLE002",
+    "user_name": "automation-ci",
+    "create_date": "2023-03-05T09:00:00Z",
+    "last_used_date": "2023-04-01T10:00:00Z",
+    "attached_policies": ["AdministratorAccess"],
+    "is_active": true
+  },
+  {
+    "access_key_id": "AKIAEXAMPLE003",
+    "user_name": "dev-user",
+    "create_date": "2022-06-20T11:30:00Z",
+    "last_used_date": null,
+    "attached_policies": ["PowerUserAccess"],
+    "is_active": false
+  },
+  {
+    "access_key_id": "AKIAEXAMPLE004",
+    "user_name": "analytics",
+    "create_date": "2025-02-01T07:00:00Z",
+    "last_used_date": "2026-05-10T14:20:00Z",
+    "attached_policies": ["ReadOnlyAccess", "IAMSelfManageServiceSpecificCredentials"],
+    "is_active": true
+  },
+  {
+    "access_key_id": "AKIAEXAMPLE005",
+    "user_name": "legacy-ops",
+    "create_date": "2021-11-11T16:00:00Z",
+    "last_used_date": "2022-01-02T09:00:00Z",
+    "attached_policies": ["*"],
+    "is_active": true
+  }
+]
